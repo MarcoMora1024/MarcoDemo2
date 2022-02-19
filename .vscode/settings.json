@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/26e02f7c-e56b-45d8-8cd1-abb6152786ea/resourceGroups/AzureExercises03WEB/providers/Microsoft.Web/sites/MarcoMoraWelcome",
+    "appService.deploySubpath": "dist\\marco-demo2"
+}
