@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 
     <app-header></app-header>
 
+    <!--<app-home></app-home>-->
   <!-- routers gets injected here -->
     <router-outlet></router-outlet>
 
