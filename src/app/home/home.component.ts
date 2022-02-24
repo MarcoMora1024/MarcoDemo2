@@ -13,7 +13,7 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: [`
     .hero{
-      background-image: url('/assets/img/cielo.jpg') !important;
+      background-image: url('/assets/img/under_construction_sign.jpg') !important;
       background-size: cover;
       background-position: center center;
     } 
