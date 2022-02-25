@@ -13,7 +13,7 @@ import { Component, OnInit } from '@angular/core';
     <section class="section">
       <div class="container">
 
-      <img src="/assets/img/under_construction_sign.jpg">
+      <img src="/assets/img/AboutMe.png">
 
       </div>
     </section>
